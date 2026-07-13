@@ -56,7 +56,7 @@ User data stored locally in dota_bot_data/ folder
 No data shared with third parties
 
 👨‍💻 Developer
-ivomitingg – Telegram
+ivomiting – Telegram
 
 📄 License
 MIT License – feel free to use and modify!
@@ -119,7 +119,7 @@ python test_tg.py
 Данные не передаются третьим лицам
 
 👨‍💻 Разработчик
-ivomitingg – Telegram
+ivomiting – Telegram
 
 📄 Лицензия
 MIT License – свободно используйте и модифицируйте!
